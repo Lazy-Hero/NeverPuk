@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Deobfuscated-By: Threadtear 3.0.1
+Main-Class: z
+
